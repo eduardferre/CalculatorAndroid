@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="dot">.</string>
+
+    <string name="clear">AC</string>
+    <string name="divide">÷</string>
+    <string name="multiply">×</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="coseno">cos</string>
+    <string name="seno">sen</string>
+    <string name="tangent">tan</string>
+    <string name="equals">=</string>
+    <string name="degree">°</string>
+    <string name="radiants">rad</string>
+    <string name="pi">π</string>
+    <string name="percent">%</string>
+
+    <string name="display">Entra un valor</string>
+</resources>
